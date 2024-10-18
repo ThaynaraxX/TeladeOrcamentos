@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99de7d54-9a97-446d-88d8-7b726775b9b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/orcamento.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/OrcamentoApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/controller/OrcamentoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/controller/UsuarioController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/model/OrcamentoModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/model/UsuarioModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/model/enums/IcmsEstados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/repositories/OrcamentoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/repositories/UsuarioRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/service/ICMSOrcamento/IcmsMG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/service/ICMSOrcamento/IcmsRJ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/service/ICMSOrcamento/IcmsSP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/service/ICMSOrcamento/IcmsStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/service/OrcamentoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/service/UsuarioService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/resources/templates/orcamentoPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/main/resources/templates/usuarioPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telaorcamento-usuario/aula_thymeleaf_java/aula_thymeleaf_java/src/test/kotlin/com/finan/orcamento/OrcamentoApplicationTests.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ThaynaraxX&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gabrielly10121/Tela-Orcamento-Usuarios.git&quot;,
+    &quot;accountId&quot;: &quot;795656dc-c57b-4fba-aa21-73580211f839&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/telaorcamentodeusuarios/aula_thymeleaf_java/aula_thymeleaf_java/src/main/kotlin/com/finan/orcamento/OrcamentoApplication.kt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2nbzdlLBYmTKa8c7Kz6uAC4imLU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "TeladeOrcamentos",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/silva/TeladeOrcamentosdeUsuarios",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99de7d54-9a97-446d-88d8-7b726775b9b1" name="Changes" comment="" />
+      <created>1729256655603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729256655603</updated>
+      <workItem from="1729256663784" duration="19000" />
+    </task>
+    <servers />
+  </component>
+</project>
